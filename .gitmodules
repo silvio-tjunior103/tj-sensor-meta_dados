@@ -1,0 +1,9 @@
+[submodule "microservices/gerenciamento_temperatura"]
+	path = microservices/gerenciamento_temperatura
+	url = https://github.com/silvio-tjunior103/tj-sensor-gerenciamento_temperatura.git
+[submodule "microservices/gerenciamento_dispositivo"]
+	path = microservices/gerenciamento_dispositivo
+	url = https://github.com/silvio-tjunior103/tj-sensor-gerenciamento_dispositivo.git
+[submodule "microservices/processo_temperatura"]
+	path = microservices/processo_temperatura
+	url = https://github.com/silvio-tjunior103/tj-sensor-processo_temperatura.git
